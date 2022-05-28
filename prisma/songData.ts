@@ -3,7 +3,7 @@ export const artistsData: {
   songs: any[]
 }[] = [
   {
-    name: "Glitch",
+    name: 'Glitch',
     songs: [
       {
         name: 'Fermi Paradox',
